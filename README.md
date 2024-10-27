@@ -202,3 +202,176 @@ En los tipos de modelos entran en consideracion los siguientes tipos:
 #### d. **Implementación de la API**
    - Exponer el modelo a través de una API que reciba entradas y devuelva recomendaciones en tiempo real.
    - Usar frameworks como **Flask** o **FastAPI** para crear la API.
+
+
+
+## Referencias
+
+### Documentación de Next.js
+- **Next.js**  
+  [Documentación oficial de Next.js](https://nextjs.org/docs)
+
+- **Guía de Introducción**  
+  [Getting Started with Next.js](https://nextjs.org/docs/getting-started)
+
+- **API Routes**  
+  [API Routes en Next.js](https://nextjs.org/docs/api-routes/introduction)
+
+- **File-System Routing**  
+  [File-System Routing](https://nextjs.org/docs/app/building-your-application/routing/file-system-routing)
+
+- **Static Generation**  
+  [Static Generation](https://nextjs.org/docs/app/building-your-application/data-fetching/static-generation)
+
+- **Server-Side Rendering**  
+  [Server-Side Rendering](https://nextjs.org/docs/app/building-your-application/data-fetching/server-side-rendering)
+
+- **Incremental Static Regeneration**  
+  [Incremental Static Regeneration](https://nextjs.org/docs/app/building-your-application/data-fetching/incremental-static-regeneration)
+
+- **Next Auth**  
+  [NextAuth.js](https://next-auth.js.org/getting-started/introduction)
+
+- **Configuración de Estilos**  
+  [Styled Components](https://nextjs.org/docs/app/building-your-application/styling/css-modules)
+
+### Documentación de Nest.js
+- **Nest.js**  
+  [Documentación oficial de Nest.js](https://docs.nestjs.com/)
+
+- **Guía de Introducción**  
+  [Getting Started with Nest.js](https://docs.nestjs.com/first-steps)
+
+- **Controladores**  
+  [Controllers en Nest.js](https://docs.nestjs.com/controllers)
+
+- **Servicios**  
+  [Providers en Nest.js](https://docs.nestjs.com/providers)
+
+- **Módulos**  
+  [Modules en Nest.js](https://docs.nestjs.com/modules)
+
+- **Interceptors**  
+  [Interceptors en Nest.js](https://docs.nestjs.com/interceptors)
+
+- **Middleware**  
+  [Middleware en Nest.js](https://docs.nestjs.com/middleware)
+
+- **DTOs y Validación**  
+  [Data Transfer Objects y Validación](https://docs.nestjs.com/techniques/validation)
+
+- **TypeORM con Nest.js**  
+  [TypeORM en Nest.js](https://docs.nestjs.com/techniques/database#typeorm)
+
+- **Configuración de Seguridad**  
+  [Security en Nest.js](https://docs.nestjs.com/security)
+
+### Recursos Adicionales
+- **GitHub de Next.js**  
+  [Repositorio de Next.js en GitHub](https://github.com/vercel/next.js)
+
+- **GitHub de Nest.js**  
+  [Repositorio de Nest.js en GitHub](https://github.com/nestjs/nest)
+
+- **Ejemplos de Next.js**  
+  [Ejemplos de Next.js](https://github.com/vercel/next.js/tree/canary/examples)
+
+- **Ejemplos de Nest.js**  
+  [Ejemplos de Nest.js](https://github.com/nestjs/nest/tree/master/sample)
+
+### Herramientas ORM
+1. **TypeORM**  
+   [Documentación de TypeORM](https://typeorm.io/)
+
+2. **Sequelize**  
+   [Documentación de Sequelize](https://sequelize.org/master/)
+
+3. **Prisma**  
+   [Documentación de Prisma](https://www.prisma.io/docs/)
+
+4. **Objection.js**  
+   [Documentación de Objection.js](https://vincit.github.io/objection.js/)
+
+5. **Mongoose**  
+   [Documentación de Mongoose](https://mongoosejs.com/docs/)
+
+6. **Dryzle ORM**  
+   [Documentación de Dryzle ORM](https://dryzle.org/docs/) 
+
+### Herramientas de Validación de Datos
+1. **class-validator**  
+   [Documentación de class-validator](https://github.com/typestack/class-validator)
+
+2. **Joi**  
+   [Documentación de Joi](https://joi.dev/api/?v=17.6.0)
+
+3. **Yup**  
+   [Documentación de Yup](https://github.com/jquense/yup)
+
+4. **Zod**  
+   [Documentación de Zod](https://zod.dev/)
+
+5. **validator.js**  
+   [Documentación de validator.js](https://validatorjs.org/)
+
+### Herramientas de Componentes y UI
+1. **Storybook**  
+   [Documentación de Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+
+2. **Chakra UI**  
+   [Documentación de Chakra UI](https://chakra-ui.com/docs/getting-started)
+
+3. **Ant Design**  
+   [Documentación de Ant Design](https://ant.design/docs/react/introduce)
+
+4. **Material-UI** (MUI)  
+   [Documentación de MUI](https://mui.com/getting-started/installation/)
+
+### Herramientas de Accesibilidad
+1. **react-axe**  
+   [Documentación de react-axe](https://github.com/dequelabs/react-axe)
+
+2. **Accessibility Insights**  
+   [Documentación de Accessibility Insights](https://accessibilityinsights.io/)
+
+### Herramientas de Gestión de Estado y Comunicación
+1. **Recoil**  
+   [Documentación de Recoil](https://recoiljs.org/docs/introduction/getting-started)
+
+2. **Zustand**  
+   [Documentación de Zustand](https://github.com/pmndrs/zustand)
+
+### Herramientas de Optimización y Rendimiento
+1. **Lighthouse**  
+   [Documentación de Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+2. **Webpack Bundle Analyzer**  
+   [Documentación de Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+
+### Herramientas de Testing y QA
+1. **Cypress**  
+   [Documentación de Cypress](https://docs.cypress.io/guides/overview/why-cypress)
+
+2. **Testing Library**  
+   [Documentación de Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+
+### Herramientas de Internacionalización
+1. **i18next**  
+   [Documentación de i18next](https://www.i18next.com/)
+
+2. **next-i18next**  
+   [Documentación de next-i18next](https://github.com/isaachinman/next-i18next)
+
+### Herramientas de Monitoreo y Análisis
+1. **Google Analytics**  
+   [Documentación de Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs)
+
+2. **Hotjar**  
+   [Documentación de Hotjar](https://www.hotjar.com/getting-started/)
+
+### Herramientas de Edición y Desarrollo
+1. **Husky**  
+   [Documentación de Husky](https://typicode.github.io/husky/#/)
+
+2. **Lint-Staged**  
+   [Documentación de Lint-Staged](https://github.com/okonet/lint-staged)
